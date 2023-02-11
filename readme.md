@@ -3,6 +3,3 @@
 # okay
 
 # conflict
-
-# Hello
-
