@@ -3,4 +3,3 @@
 # okay
 
 # conflict
-# line6
